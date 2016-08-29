@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Week
+title: Week One
 ---
 
 This week we went through a soft introduction to c++ by comparing a simple program line by line with the java equivalent commands. We also learned about our testing and test coverage tools through projected demos. Right now I'm mostly running into trouble with installing docker on a windows machine and am waiting on my textbook to arrive so that I can begin the readings. Next week I will catch up for lost time with the readings and finish setting up the environments required for this course as well as getting started on the first project.

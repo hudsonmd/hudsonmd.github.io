@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+>I'm a third year Integrated Masters CS student scheduled to graduate in the spring of 2018
 
-### More Information
+### Why am I writing this?
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently enrolled in CS371P Object Oriented programming with Professor Glenn Downing. As part of an extra credit opportunity I am mainting this blog and using it to document my experiences in the course
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:hudsonmatthew.david@utexas.edu)

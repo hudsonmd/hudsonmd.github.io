@@ -12,4 +12,4 @@ I'm currently enrolled in CS371P Object Oriented programming with Professor Glen
 
 ### Contact me
 
-[email@domain.com](mailto:hudsonmatthew.david@utexas.edu)
+[hudsonmatthew.david@utexas.edu](mailto:hudsonmatthew.david@utexas.edu)

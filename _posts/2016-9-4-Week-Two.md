@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week Two
-
+---
 
 1. What did I do last week?
 This week we spent the first two classes discussing solution strategies for the collatz project and introducing the class to the various steps required to set up, test, and submit our solutions. One of the more  heavily focused on areas was caching where Professor Downing discussed eager, lazy, and meta caching in the context of the 3n+1 problem. For the third class we discussed the difference between "L" and "R" values in C++ using the ++ operator as an example, as well as the usage of exceptions in the control flow of our programs.
@@ -16,4 +16,3 @@ I will finish the unit testing and acceptance testing side of the project as wel
 
 Pick of the week :
 Since this blog is written in markdown, I've found this online markdown editor to be a very helpful resource [stackedit.io](https://stackedit.io/editor)
----

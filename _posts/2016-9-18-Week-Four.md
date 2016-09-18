@@ -1,22 +1,19 @@
 ---
 layout: post
-title: Week Three
+title: Week Four
 ---
 **1. What did I do last week?** 
 <br>
-I developed an initial solution to the project's actual requirements for the program, then improved it with  a caching optimization followed by a range reduction optimization. During this development I also set up my various repositories, pulled the class docker image, integrated Travis CI with my code, installed CLion for local development, and went through a few more C++ tutorials.  With the acceptance test and unit test files already set up, learning to write the tests for the project was a breeze. Once I got my tests to avoid the overflow numbers, I was finally able to submit the project and await the results. 
+I started out the week by fixing a small compilation issue in one of my collatz project files and devoting a longer than anticipated amount of time towards the assigned 2 chapters and 2 articles of reading. Since the netflix project was released this week, and all future projects give bonus credit for working with a new partner, I spoke with several other students in the course and we decided to form a small group of people whom would swap partners internally within the group. Once we figured out the logistics of the group, my first partner, Taylor Kline, and scheduled a planning session thursday morning and an initial coding session thursday evening. During these meetings we collaboratively developed the github issues for the netflix project and then created the initial project skeleton and planned out our milestones for the next wweek.
 
 **2. What was in my way?** 
 <br>
-While downloading the updated docker image for the course, my /var partition became 100% full with docker images and my linux distribution broke. I then squandered 12 hours of my project time just trying to get it to boot and ended up completing the project on a windows machine but the large size of the docker installation took a very long time to download.
+Biking back from class friday I got into an accident, which damaged my laptop, phone, and injured my dominant hand. This delayed my work on the project as I am temporarily have some difficulty typing/writing and I had to reprioritize my time over the weekend to recover and repair my damaged items.  
 
 **3. What will I do next week?** 
 <br>
-Repair my broken machine and start the planning phase/initial solution for the second project.
+Catch up for the missed milestones, which included setting up functionality to read in the cached data files and developing a dumb solution that we could utilize for our initial unit tests. 
 
 **Pick of the week :** 
 <br>
-I've been binge watching C++ tutorials in preparation for this course and the best ones I've found have been the C++ Fundamentals and C++ Advanced Topics tutorial series by Katy Gregory at [this pluralsight link](https://app.pluralsight.com/library/courses/cpp-fundamentals/table-of-contents)
-<br>
-<br>
-If you don't want to pay $250 for pluralsight then look in your github student developer pack and you'll find a free 3 month subscription to the website.
+Clion is a great c/c++ ide that UT students can get for free since we are given a free jetbrains account. This was especially useful for me because I had to reinstall the operating system on my main development machine and clion included the majority of the necessary tools to work on the netflix project.   

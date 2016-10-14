@@ -5,9 +5,11 @@ title: Week Seven
 **1. What did I do last week?** 
 <br>
 This week brought along with it the first test, so most of the class time was spent solidifying our knowledge of the newer subjects such as creating iteratable object in c++ and learning to identify the nuances of using const in our type declarations. As I mentioned last week, my laptop had been having issues with maintaining an internet connection, but thankfully Professor Downing allowed me to attend the makeup exam  where I used a lab machine to take the test. With the logistical chalenges taken care of, I was free to start studying for the exam. My approach to studying for the exam is below in enumerated steps :
+<br>
 1. Quiz myself using the class quizzes on canvas
 <br>
 2. Read through my personal class notes
+<br>
 3. Review each canvas quiz that gave me trouble the first time
 <br>
 4. Read through the posted class notes on piazza

@@ -6,16 +6,26 @@ title: Week Seven
 <br>
 This week brought along with it the first test, so most of the class time was spent solidifying our knowledge of the newer subjects such as creating iteratable object in c++ and learning to identify the nuances of using const in our type declarations. As I mentioned last week, my laptop had been having issues with maintaining an internet connection, but thankfully Professor Downing allowed me to attend the makeup exam  where I used a lab machine to take the test. With the logistical chalenges taken care of, I was free to start studying for the exam. My approach to studying for the exam is below in enumerated steps :
 1. Quiz myself using the class quizzes on canvas
+<br>
 2. Read through my personal class notes
 3. Review each canvas quiz that gave me trouble the first time
+<br>
 4. Read through the posted class notes on piazza
+<br>
 5. Review each canvas quiz again
+<br>
 6. Read through all non-project specific piazza posts
+<br>
 7. Read all of the posted example c++ files covered in class
+<br>
 8. Review each canvas quiz
+<br>
 9. Skim through the posted class notes on piazza
+<br>
 10. Skim through my personal class notes
+<br>
 11. Review any posted cheat sheets
+<br>
 12. Create my own cheet sheet or utilize a quality posted cheat sheet as a base and modify it as needed
 
 

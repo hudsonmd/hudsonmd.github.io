@@ -17,4 +17,4 @@ I'm going to try to get a head start on project 5 since I will be out of town at
 
 **Tip of the week :** 
 <br>
-Don't use neosporin for more than three days on a wound, as it develops a local skin allergy after extended usage. Similar effects occure with patches for software bugs.
+Don't use neosporin for more than three days on a wound, as it develops a local skin allergy after extended usage. Similar effects occur with patches for software bugs.
